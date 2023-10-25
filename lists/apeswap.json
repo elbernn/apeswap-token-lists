@@ -2329,6 +2329,14 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WOMBAT.svg"
     },
     {
+      "name": "Veloce",
+      "symbol": "VEXT",
+      "address": "0x27842334C55c01DDFE81Bf687425F906816c5141",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/VEXT.png"
+    },
+    {
       "name": "Test USD Coin",
       "symbol": "tUSDC",
       "address": "0x5E061239f6Dd8D8035bb341AA8ef8Be6026e80fa",
